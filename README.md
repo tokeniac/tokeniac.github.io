@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/images/vittominacori-sq.jpg
+heroImage: /assets/images/tokencenter-sq.jpg
 heroText: Vittorio Minacori
 tagline: Web and Blockchain Developer
 actionText: Discover More
@@ -8,7 +8,7 @@ actionLink: /about/
 navbar: false
 meta: 
     - property: og:url
-      content: https://vittominacori.github.io/
+      content: https://tokencenter.github.io/
     - property: og:title
       content: Vittorio Minacori | Web and Blockchain Developer
     - property: og:description
@@ -20,9 +20,9 @@ meta:
 ---
 
 <p class="social">
-    <a href="https://github.com/vittominacori" target="_blank"><i class="fab fa-2x fa-github"></i></a> 
-    <a href="https://twitter.com/vittominacori" target="_blank"><i class="fab fa-2x fa-twitter"></i></a> 
+    <a href="https://github.com/tokencenter" target="_blank"><i class="fab fa-2x fa-github"></i></a> 
+    <a href="https://twitter.com/tokencenter" target="_blank"><i class="fab fa-2x fa-twitter"></i></a> 
     <a href="https://www.linkedin.com/in/vittoriominacori" target="_blank"><i class="fab fa-2x fa-linkedin-in"></i></a>
-    <a href="https://www.instagram.com/vittominacori" target="_blank"><i class="fab fa-2x fa-instagram"></i></a>
-    <a href="https://vittominacori.medium.com" target="_blank"><i class="fab fa-2x fa-medium-m"></i></a>
+    <a href="https://www.instagram.com/tokencenter" target="_blank"><i class="fab fa-2x fa-instagram"></i></a>
+    <a href="https://tokencenter.medium.com" target="_blank"><i class="fab fa-2x fa-medium-m"></i></a>
 </p>

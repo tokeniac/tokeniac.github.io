@@ -1,7 +1,7 @@
 ---
 permalink: privacy
 title: Privacy Policy
-description: Privacy Policy for vittominacori.github.io
+description: Privacy Policy for tokencenter.github.io
 navbar: false
 sidebar: false
 meta: 
@@ -12,7 +12,7 @@ meta:
 ## Privacy Policy
 
 ### Data Controller and Owner
-https://vittominacori.github.io
+https://tokencenter.github.io
 
 Owner contact email: info@vmlab.it
 

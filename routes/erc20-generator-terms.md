@@ -112,4 +112,4 @@ We encourage you to periodically review this privacy statement to learn how ERC2
 Read our [Privacy Policy](/privacy) which is hereby incorporated in these terms by reference.
 
 ## How to Contact Us
-If you have a technical or support question, a privacy concern, complaint, or any type of question, please open an issue [here](https://github.com/vittominacori/erc20-generator/issues) or send a PM to [@Erc20Generator](https://twitter.com/Erc20Generator).
+If you have a technical or support question, a privacy concern, complaint, or any type of question, please open an issue [here](https://github.com/tokencenter/erc20-generator/issues) or send a PM to [@Erc20Generator](https://twitter.com/Erc20Generator).

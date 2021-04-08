@@ -1,7 +1,7 @@
 ---
 permalink: terms
 title: Terms and Conditions
-description:  Terms and Conditions for vittominacori.github.io
+description:  Terms and Conditions for tokencenter.github.io
 navbar: false
 sidebar: false
 meta: 
@@ -12,7 +12,7 @@ meta:
 ## Terms and Conditions
 
 ### Data Controller and Owner
-https://vittominacori.github.io
+https://tokencenter.github.io
 
 Owner contact email: info@vmlab.it
 

@@ -1,26 +1,26 @@
 {
-  "name": "vittominacori.github.io",
+  "name": "tokencenter.github.io",
   "version": "1.0.0",
-  "description": "@vittominacori's personal website",
+  "description": "@tokencenter's personal website",
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build",
     "deploy": "vuepress build && sh scripts/deploy.sh"
   },
-  "author": "Vittorio Minacori (@vittominacori)",
+  "author": "Vittorio Minacori (@tokencenter)",
   "contributors": [
     {
       "name": "Vittorio Minacori",
-      "url": "https://github.com/vittominacori"
+      "url": "https://github.com/tokencenter"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vittominacori/vittominacori.github.io.git"
+    "url": "https://github.com/tokencenter/tokencenter.github.io.git"
   },
-  "homepage": "https://github.com/vittominacori/vittominacori.github.io/",
+  "homepage": "https://github.com/tokencenter/tokencenter.github.io/",
   "bugs": {
-    "url": "https://github.com/vittominacori/vittominacori.github.io/issues"
+    "url": "https://github.com/tokencenter/tokencenter.github.io/issues"
   },
   "license": "MIT",
   "devDependencies": {

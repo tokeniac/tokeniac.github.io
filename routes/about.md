@@ -2,7 +2,7 @@
 permalink: about
 meta: 
     - property: og:url
-      content: https://vittominacori.github.io/about/
+      content: https://tokencenter.github.io/about/
     - property: og:title
       content: Vittorio Minacori | Web and Blockchain Developer
     - property: og:description
@@ -13,17 +13,17 @@ meta:
       content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation.
 ---
 
-<img :src="$withBase('/assets/images/vittominacori-sq.jpg')" width="260" alt="vittominacori">
+<img :src="$withBase('/assets/images/tokencenter-sq.jpg')" width="260" alt="tokencenter">
 
 <h1>Vittorio Minacori</h1>
 
 <b>Web and Blockchain Developer</b>
 
-<a href="https://github.com/vittominacori" target="_blank"><i class="fab fa-2x fa-github"></i></a> 
-<a href="https://twitter.com/vittominacori" target="_blank"><i class="fab fa-2x fa-twitter"></i></a> 
+<a href="https://github.com/tokencenter" target="_blank"><i class="fab fa-2x fa-github"></i></a> 
+<a href="https://twitter.com/tokencenter" target="_blank"><i class="fab fa-2x fa-twitter"></i></a> 
 <a href="https://www.linkedin.com/in/vittoriominacori" target="_blank"><i class="fab fa-2x fa-linkedin-in"></i></a>
-<a href="https://www.instagram.com/vittominacori" target="_blank"><i class="fab fa-2x fa-instagram"></i></a>
-<a href="https://vittominacori.medium.com" target="_blank"><i class="fab fa-2x fa-medium-m"></i></a>
+<a href="https://www.instagram.com/tokencenter" target="_blank"><i class="fab fa-2x fa-instagram"></i></a>
+<a href="https://tokencenter.medium.com" target="_blank"><i class="fab fa-2x fa-medium-m"></i></a>
 
 ## About 
 
@@ -205,14 +205,14 @@ The methodology developed within the project are implemented in some schools and
 Create an ERC20 Token in less than a minute. 
 Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token for FREE.
 ```   
-[vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator/)
+[tokencenter.github.io/erc20-generator](https://tokencenter.github.io/erc20-generator/)
 
 ### BEP20 Token Generator   
 ``` 
 Create a BEP20 Token in less than a minute. 
 Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token for FREE.
 ```   
-[vittominacori.github.io/bep20-generator](https://vittominacori.github.io/bep20-generator/)
+[tokencenter.github.io/bep20-generator](https://tokencenter.github.io/bep20-generator/)
 
 ### CryptoGift   
 ``` 
@@ -220,38 +220,38 @@ CryptoGift is an ERC721 NFT Token and Marketplace to buy and give away an Ethere
 Send Ethereum to a friend for birthday or Christmas, or send a love message. Encrypt and make it eternal. 
 Make your Gift unique on the Blockchain!
 ```   
-[vittominacori.github.io/cryptogift](https://vittominacori.github.io/cryptogift/)
+[tokencenter.github.io/cryptogift](https://tokencenter.github.io/cryptogift/)
 
 ### WatchToken   
 ``` 
 A simple DApp that allows suggesting and adding a Token to users of compatible wallets like MetaMask.
 ```   
-[vittominacori.github.io/watch-token](https://vittominacori.github.io/watch-token/)
+[tokencenter.github.io/watch-token](https://tokencenter.github.io/watch-token/)
 
 ### ETHBadge   
 ``` 
 A simple DApp that allows you creating an Ethereum badge for your address to share or embed in your website.
 ```   
-[vittominacori.github.io/ethereum-badge](https://vittominacori.github.io/ethereum-badge/)
+[tokencenter.github.io/ethereum-badge](https://tokencenter.github.io/ethereum-badge/)
 
 ### ERC-1363 Payable Token   
 ``` 
 The ERC-1363 is an ERC-20 compatible token that can make a callback on the receiver contract to notify token transfers or token approvals. 
 It can be used to create a token payable crowdsale, selling services for tokens, paying invoices, making subscriptions, use them for a specific utility and many other purposes.
 ```   
-[vittominacori.github.io/erc1363-payable-token](https://vittominacori.github.io/erc1363-payable-token/)
+[tokencenter.github.io/erc1363-payable-token](https://tokencenter.github.io/erc1363-payable-token/)
 
 ### ETH Token Recover   
 ``` 
 TokenRecover allows the contract owner to recover any ERC20 token sent into the contract for error.
 ```   
-[vittominacori.github.io/eth-token-recover](https://vittominacori.github.io/eth-token-recover/)
+[tokencenter.github.io/eth-token-recover](https://tokencenter.github.io/eth-token-recover/)
 
 ### Solidity Linked List   
 ``` 
 An utility library for using sorted linked list data structures in your Solidity project.
 ```   
-[vittominacori.github.io/solidity-linked-list](https://vittominacori.github.io/solidity-linked-list/)
+[tokencenter.github.io/solidity-linked-list](https://tokencenter.github.io/solidity-linked-list/)
 
 ## Education
 
@@ -318,11 +318,11 @@ I'm always interested in innovation regarding blockchain, web applications and i
 I'm based in Catania... and on network too.   
 Open to getting in touch with awesome people and projects.     
 
-<a href="https://github.com/vittominacori" target="_blank"><i class="fab fa-2x fa-github"></i></a> 
-<a href="https://twitter.com/vittominacori" target="_blank"><i class="fab fa-2x fa-twitter"></i></a> 
+<a href="https://github.com/tokencenter" target="_blank"><i class="fab fa-2x fa-github"></i></a> 
+<a href="https://twitter.com/tokencenter" target="_blank"><i class="fab fa-2x fa-twitter"></i></a> 
 <a href="https://www.linkedin.com/in/vittoriominacori" target="_blank"><i class="fab fa-2x fa-linkedin-in"></i></a>
-<a href="https://www.instagram.com/vittominacori" target="_blank"><i class="fab fa-2x fa-instagram"></i></a>
-<a href="https://vittominacori.medium.com" target="_blank"><i class="fab fa-2x fa-medium"></i></a>
+<a href="https://www.instagram.com/tokencenter" target="_blank"><i class="fab fa-2x fa-instagram"></i></a>
+<a href="https://tokencenter.medium.com" target="_blank"><i class="fab fa-2x fa-medium"></i></a>
 
 
 ---    
