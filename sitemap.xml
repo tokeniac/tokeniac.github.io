@@ -9,7 +9,7 @@
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
-    <url>
+<!--     <url>
         <loc>https://tokencenter.github.io/about/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
@@ -18,7 +18,7 @@
         <loc>https://tokencenter.github.io/cryptogift/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
-    </url>
+    </url> -->
     <url>
         <loc>https://tokencenter.github.io/erc20-generator/</loc>
         <changefreq>weekly</changefreq>
@@ -29,7 +29,7 @@
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
-    <url>
+<!--     <url>
         <loc>https://tokencenter.github.io/watch-token/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
@@ -64,4 +64,4 @@
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
-</urlset>
+ --></urlset>
