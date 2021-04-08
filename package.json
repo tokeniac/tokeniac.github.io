@@ -7,10 +7,10 @@
     "build": "vuepress build",
     "deploy": "vuepress build && sh scripts/deploy.sh"
   },
-  "author": "Vittorio Minacori (@tokencenter)",
+  "author": "TokenCenter (@tokencenter)",
   "contributors": [
     {
-      "name": "Vittorio Minacori",
+      "name": "TokenCenter",
       "url": "https://github.com/tokencenter"
     }
   ],
