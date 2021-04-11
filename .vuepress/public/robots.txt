@@ -1,4 +1,4 @@
 User-Agent: *
-Disallow:
+Allow:
 
 Sitemap: https://tokencenter.github.io/sitemap.xml
