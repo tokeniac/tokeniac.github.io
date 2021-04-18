@@ -4,11 +4,11 @@ meta:
     - property: og:url
       content: https://tokencenter.github.io/about/
     - property: og:title
-      content: TokenCenter | Web and Blockchain Developer
+      content: TokenCenter | Blockchain Enthusiastic
     - property: og:description
       content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation.
     - property: twitter:title
-      content: TokenCenter | Web and Blockchain Developer
+      content: TokenCenter | Blockchain Enthusiastic
     - property: twitter:description
       content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation.
 ---
@@ -17,7 +17,7 @@ meta:
 
 <h1>TokenCenter</h1>
 
-<b>Web and Blockchain Developer</b>
+<b>Blockchain Enthusiastic</b>
 
 <a href="https://github.com/tokencenter" target="_blank"><i class="fab fa-2x fa-github"></i></a> 
 <a href="https://twitter.com" target="_blank"><i class="fab fa-2x fa-twitter"></i></a> 

@@ -2,7 +2,7 @@
 home: true
 heroImage: /assets/images/tokencenter-sq.jpg
 heroText: TokenCenter
-tagline: Web and Blockchain Developer
+tagline: Blockchain Enthusiastic
 actionText: Discover More
 actionLink: /about/
 navbar: false
@@ -10,11 +10,11 @@ meta:
     - property: og:url
       content: https://tokencenter.github.io/
     - property: og:title
-      content: TokenCenter | Web and Blockchain Developer
+      content: TokenCenter | Blockchain Enthusiastic
     - property: og:description
       content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation.
     - property: twitter:title
-      content: TokenCenter | Web and Blockchain Developer
+      content: TokenCenter | Blockchain Enthusiastic
     - property: twitter:description
       content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation.
 ---
