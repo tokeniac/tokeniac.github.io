@@ -7,8 +7,8 @@ module.exports = {
     ['meta', {property: 'og:image', content: 'https://tokencenter.github.io/assets/images/tokencenter.jpg'}],
     ['meta', {property: 'twitter:card', content: 'summary_large_image'}],
     ['meta', {property: 'twitter:image', content: 'https://tokencenter.github.io/assets/images/tokencenter.jpg'}],
-    ['meta', {name: 'google-site-verification', content: 'Q3pMcwECEGhU_s_cyixqPpPcA8hyrJKEu-vIDEfLAOY'}],
-    ['meta', {name: 'facebook-domain-verification', content: '53g1h8apbdq8dkcc84e2e5lkq1rfym'}],
+    ['meta', {name: 'google-site-verification', content: ''}],
+    ['meta', {name: 'facebook-domain-verification', content: ''}],
     ['meta', {name: 'msvalidate.01', content: '2222C2A799471867FB1E317854E92631'}],
     ['script',
       {
@@ -25,10 +25,10 @@ module.exports = {
   ],
   plugins: [
     ['@vuepress/google-analytics', {
-      ga: 'UA-115756440-2'
+      ga: ''
     }],
     ['vuepress-plugin-facebook-pixel', {
-      pixelId: '373489733749849'
+      pixelId: ''
     }],
   ],
   themeConfig: {
