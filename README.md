@@ -4,7 +4,7 @@ heroImage: /assets/images/tokencenter-sq.jpg
 heroText: TokenCenter
 tagline: Blockchain Enthusiastic
 actionText: Discover More
-actionLink: /about/
+actionLink: /#/
 navbar: false
 meta: 
     - property: og:url
